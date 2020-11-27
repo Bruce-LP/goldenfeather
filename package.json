@@ -1,0 +1,22 @@
+{
+  "name": "goldenfeather",
+  "version": "1.0.0",
+  "description": "personal code library of front-end weisite (WIP)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bruce-LP/goldenfeather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bruce-LP/goldenfeather/issues"
+  },
+  "homepage": "https://github.com/Bruce-LP/goldenfeather#readme",
+  "dependencies": {
+    "vue": "^3.0.3"
+  }
+}
